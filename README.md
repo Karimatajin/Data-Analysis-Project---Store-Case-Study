@@ -13,3 +13,4 @@ Recommend Products for New Stores
 4. What is the final deliverable?
    - Recommendations, Dashboard 
 
+![image](https://github.com/user-attachments/assets/cc9b0299-22ed-4240-adc5-451b438a4e5f)
